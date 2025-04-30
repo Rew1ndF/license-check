@@ -1,9 +1,6 @@
 {
   "ABC123": {
-    "hwid": "",
+    "hwid": "b512d97e7cbf97c273e4db073bbb547aa65a84589227f8f3d9e4a72b9372a24d",
     "expiry": "2025-12-31"
-  },
-  "Ara123": {
-    "hwid": null
   }
 }
