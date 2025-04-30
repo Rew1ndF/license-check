@@ -1,8 +1,10 @@
 {
-  "2": {
-    "hwid": null
-  },
-  "1": {
-    "hwid": null
-  }
+    "123": {
+        "hwid": null
+        "expiry": "2025-12-31"
+    },
+    "qwe123": {
+        "hwid": null
+        "expiry": "2024-05-01"
+    }
 }
