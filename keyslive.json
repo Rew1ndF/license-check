@@ -1,1 +1,14 @@
-
+{
+  "Cotl": {
+    "hwid": null,
+    "expiry": "2026-12-31"
+  },
+  "IAN228": {
+    "hwid": "113780617493",
+    "expiry": "2026-12-31"
+  },
+  "Rew1ndFGG": {
+    "hwid": null,
+    "expiry": "2026-12-31"
+  }
+}
