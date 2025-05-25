@@ -1,10 +1,10 @@
 {
   "Cotl": {
-    "hwid": null,
+    "hwid": "1",
     "expiry": "2026-12-31"
   },
   "Base3": {
-    "hwid": null,
+    "hwid": "1",
     "expiry": "2026-12-31"
   },
   "LiveResonance": {
