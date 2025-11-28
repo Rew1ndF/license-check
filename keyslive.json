@@ -7,9 +7,13 @@
     "hwid": "1",
     "expiry": "2026-12-31"
   },
+  "eee222": {
+    "hwid": "None",
+    "expiry": "2026-12-31"
+  },
   "BasePPP2": {
     "hwid": null,
-    "expiry": "2027-10-08"
+    "expiry": "2024-10-08"
   },
   "BaseY7UsK4": {
     "hwid": null,
