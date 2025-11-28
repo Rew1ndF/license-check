@@ -12,7 +12,7 @@
     "expiry": "2026-12-31"
   },
   "LiveIam": {
-    "hwid": "18691171354521",
+    "hwid": null,
     "expiry": "2026-12-31"
   },
   "BasePPP2": {
