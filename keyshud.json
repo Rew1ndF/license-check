@@ -27,17 +27,13 @@
     "hwid": null,
     "expiry": "2025-12-11"
   },
-  "LiveOt6": {
-    "hwid": null,
-    "expiry": "2026-02-03"
-  },
-  "LiveV3133q": {
-    "hwid": null,
-    "expiry": "2026-01-21"
-  },
   "Live1337": {
     "hwid": "18691171354521",
     "expiry": "2036-12-31"
+  },
+  "Live1337": {
+    "hwid": null,
+    "expiry": "2026-02-20"
   },
   "LiveDiv": {
     "hwid": "57562775661372",
