@@ -1,5 +1,5 @@
 {
   "version": "5.2",
-  "download_url": "https://drive.google.com/file/d/1SASQXUlGSa2jWB7eQfZrMp7HveYd8Wbw/view",
-  "changelog": "Обновление через внешнее хранилище."
+  "download_url": "https://drive.google.com/uc?export=download&id=1SASQXUlGSa2jWB7eQfZrMp7HveYd8Wbw",
+  "changelog": "Добавлена система автоматического обновления через внешнее хранилище. Исправлены баги UI."
 }
