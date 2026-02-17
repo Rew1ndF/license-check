@@ -1,3 +1,10 @@
-ADMIN-KEY-999
-USER-RW2026-X1
-TRIAL-888-777
+{
+  "Live1337": {
+    "hwid": null,
+    "expiry": "2027-12-20"
+  },
+  "LiveVlad": {
+    "hwid": "246479208831579",
+    "expiry": "2024-12-31"
+  }
+}
