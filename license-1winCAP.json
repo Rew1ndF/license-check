@@ -6,5 +6,9 @@
   "Vlad": {
     "hwid": null,
     "expiry": "2027-12-31"
+  },
+    "1": {
+    "hwid": null,
+    "expiry": "2027-12-20"
   }
 }
