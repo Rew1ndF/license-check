@@ -8,7 +8,7 @@
     "expiry": "2026-12-31"
   },
   "LiveResonance": {
-    "hwid": null,
+    "hwid": "220234181635657",
     "expiry": "2026-12-31"
   },
   "LiveArslan": {
@@ -16,7 +16,7 @@
     "expiry": "2026-12-31"
   },
   "LiveIlya2": {
-    "hwid": null,
+    "hwid": "57562775661372",
     "expiry": "2026-12-31"
   },
   "LiveYo2r4": {
@@ -36,7 +36,7 @@
     "expiry": "2036-02-20"
   },
   "LiveDiv": {
-    "hwid": "57562775661372",
+    "hwid": "123123",
     "expiry": "2036-12-31"
   },
   "LiveVlad": {
