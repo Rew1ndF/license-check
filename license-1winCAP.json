@@ -1,26 +1,26 @@
 {
   "Anton": {
     "hwid": "90A736DC",
-    "expiry": "2027-12-20"
+    "expiry": "2024-12-20"
   },
   "Vlad": {
     "hwid": null,
-    "expiry": "2027-12-31"
+    "expiry": "2024-12-31"
   },
   "Arslan": {
     "hwid": "833631DF",
-    "expiry": "2027-12-31"
+    "expiry": "2024-12-31"
   },
   "Treal01": {
     "hwid": "A4E16A15",
-    "expiry": "2026-04-01"
+    "expiry": "2024-04-01"
   },
     "Artem": {
     "hwid": "53462C90",
-    "expiry": "2027-12-20"
+    "expiry": "2024-12-20"
   },
     "123": {
     "hwid": "334CD61F",
-    "expiry": "2027-12-20"
+    "expiry": "2024-12-20"
   }
 }
