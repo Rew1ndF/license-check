@@ -1,6 +1,6 @@
 {
   "version": "7.4",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/v7.4/1WIN.TOOLS.7.4.exe",
-  "sha256": "6c728535e71b73e160017217b6f83af74a624bc0d8a6130649db5669cf820d34",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/v7.4/1WINTOOLS7.4.exe",
+  "sha256": "7ba3f886d05307604452c14ce123ebff874fd41019cc6b09e0dbc7b81742fc1b",
   "changelog": "Добавленны новые кнопки + фикс багов"
 }
