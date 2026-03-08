@@ -1,6 +1,6 @@
 {
-  "version": "7.2",
+  "version": "7.3",
   "download_url": "https://github.com/Rew1ndF/license-check/releases/download/v7.3/WinHK3.exe",
-  "sha256": "518F15C688999CDDF09A66C8D05BF84AE32DD7B2D92103B79EA63A7FE6797CEE",
-  "changelog": "Добавлена система профилей"
+  "sha256": "B6FFDD5821ACFD198D2638CD5E85B925F5408302EC0E611C8FAED677F2BAB0C5",
+  "changelog": "Добавленны новые кнопки + фикс багов"
 }
