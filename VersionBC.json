@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc1.2/BC.converter1.3.exe",
-  "sha256": "sha256:9787371982f96b0744c4551d4f65f3ca51b09a35c95c359601a763132d9bdd7c",
-  "changelog": "Добавленна поддержка H2N 4"
+  "version": "1.4",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc1.4/BC.converter1.4.exe",
+  "sha256": "sha256:3def66b90ebcc675600bfa779d12b5091338895cd2b4f27fc1e57cb0f456a6e5",
+  "changelog": "Исправленны ошибки"
 }
