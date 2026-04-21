@@ -1,6 +1,6 @@
 {
-  "version": "7.5",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W7.5/1WinTools7.5.exe",
-  "sha256": "4e2b664c6588fd26f8e8835538147e9f9c11dd8dc224861b9b43d1f6c83a09ae",
-  "changelog": "Исправленны ошибки+оптимизация"
+  "version": "7.6",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W7.6/WinHK3.exe",
+  "sha256": "f27b8828a9c426ccee5632f2ad4a8ad68797297b56d18989353c86f7c1f5d9c1",
+  "changelog": "Исправленны ошибки для win10"
 }
