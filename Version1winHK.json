@@ -1,6 +1,6 @@
 {
   "version": "7.6",
-  "download_url": https://github.com/Rew1ndF/license-check/releases/download/1W7.6/1WIN.TOOLS.exe",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W7.6/1WIN.TOOLS.exe",
   "sha256": "559ae556a237b676f08095586379d8917d3243b35736863362b870eda8d4f83b",
   "changelog": "Исправленны ошибки для win10"
 }
