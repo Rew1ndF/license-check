@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc1.8/BC.converter.1.8.0.exe",
-  "sha256": "sha256:62ee6a7ab3432ad7e17b2733729c068ba44b95fe65983235e2d807b778089a36",
+  "version": "1.9",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc1.9/BC.converter.1.9.0.exe",
+  "sha256": "sha256:35716eca0ef300ab304a7461be1249bc75e42b5468f7f56ff3e9f0dc16c3f0d3",
   "changelog": "Фикс багов"
 }
