@@ -1,6 +1,6 @@
 {
-  "version": "7.7",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W7.7/1WIN.TOOLS.exe",
-  "sha256": "700c4b9cabe9135d66acf8bc5dd5727fa532ad28da93185f9ae279df1ae5d3b3",
-  "changelog": "Добавлены новые функции"
+  "version": "7.8",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W7.8/WinHK3.exe",
+  "sha256": "7cb2e44819cbb69a5f85640bb2fafd10bf08cd9e3635cce8b8018c8d4d426500",
+  "changelog": "Добавленны новые функции, альтернативный формат конвертации"
 }
