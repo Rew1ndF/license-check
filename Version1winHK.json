@@ -1,6 +1,6 @@
 {
-  "version": "7.9",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W7.9/1WIN.TOOLS.exe",
-  "sha256": "a1d1ca0cd0bd3ab5430befa571d95203b0accd947c46d4896ab5a35a67d126f0",
-  "changelog": "Добавленна конвертация форматов"
+  "version": "8.0",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W8.0/WinHK3.exe",
+  "sha256": "85470311f98189715a3996638d785bc29ade358f84624b095f41deca4343348b",
+  "changelog": "Добавлен рандомайзер"
 }
