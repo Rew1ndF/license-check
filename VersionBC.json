@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.0/BC.converter.2.0.0.exe",
-  "sha256": "sha256:6d919a7404fed08cc3985aaa6513f1b15be4829205e2944b585e7d6a706cf6a4",
-  "changelog": "Фикс багов"
+  "version": "2.1",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.1/BC.converter.2.1.0.exe",
+  "sha256": "sha256:5af1011dae8b5f0bd93b17d8f07f31a71465666530872f766eab13d5436c547b",
+  "changelog": "Редизайн + увеличенна скорость"
 }
