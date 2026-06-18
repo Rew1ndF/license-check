@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.2/BC.converter.2.2.0.exe",
-  "sha256": "sha256:baebd0a6391c3034cafc17b78f904f004bfd25a6c5c6a9dc235a731eb9705c0e",
-  "changelog": "Фиксы"
+  "version": "2.2.3",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.2.3/BC.converter.2.2.3.exe",
+  "sha256": "sha256:42b9be5e4ec4149a4a8cf8a97a123dd4dc1fb89baa0b11d90fa9fe08b7c11db6",
+  "changelog": "Crash-репортинг для всех пользователей, защита от битых пакетов, фиксы стабильности."
 }
