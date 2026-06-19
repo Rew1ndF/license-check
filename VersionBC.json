@@ -1,6 +1,6 @@
 {
-  "version": "2.2.3",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.2.3/BC.converter.2.2.3.exe",
-  "sha256": "sha256:42b9be5e4ec4149a4a8cf8a97a123dd4dc1fb89baa0b11d90fa9fe08b7c11db6",
-  "changelog": "Crash-репортинг для всех пользователей, защита от битых пакетов, фиксы стабильности."
+  "version": "2.2.4",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.2.4/BC.converter.2.2.4.exe",
+  "sha256": "sha256:b3d402ecf43b5939c2b6f4135f11124cb435ff9de3ad7fc8199ef4365441fa5b",
+  "changelog": "Исправлено отображение ников при наблюдении за столами; исправлен запуск вместе с Hand2Note; повышена стабильность."
 }
