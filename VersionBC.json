@@ -2,5 +2,5 @@
   "version": "2.2.4",
   "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.2.4/BC.converter.2.2.4.exe",
   "sha256": "sha256:b3d402ecf43b5939c2b6f4135f11124cb435ff9de3ad7fc8199ef4365441fa5b",
-  "changelog": "Исправлено отображение ников при наблюдении за столами; исправлен запуск вместе с Hand2Note; повышена стабильность."
+  "changelog": "Исправлено отображение ников; исправлен запуск вместе с Hand2Note; повышена стабильность."
 }
