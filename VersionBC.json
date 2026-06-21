@@ -1,6 +1,6 @@
 {
-  "version": "2.2.4",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.2.4/BC.converter.2.2.4.exe",
-  "sha256": "sha256:b3d402ecf43b5939c2b6f4135f11124cb435ff9de3ad7fc8199ef4365441fa5b",
-  "changelog": "Исправлено отображение ников; исправлен запуск вместе с Hand2Note; повышена стабильность."
+  "version": "2.4.0",
+  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/bc2.4.0/BC.converter.2.4.0.exe",
+  "sha256": "sha256:3edb4bd6070daf5f3373883f2f5ae3b3dae985693c225a45874fe33f8da3f114",
+  "changelog": "Фикс бага с никами"
 }
