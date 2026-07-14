@@ -1,6 +1,6 @@
 {
-  "version": "8.0",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/1W8.0/WinHK3.exe",
-  "sha256": "85470311f98189715a3996638d785bc29ade358f84624b095f41deca4343348b",
-  "changelog": "Добавлен рандомайзер"
+  "version": "8.1",
+  "download_url": "https://github.com/Rew1ndF/1win-tools-update/releases/download/1W8.1/WinHK3.exe",
+  "sha256": "6506D0583A8E89C15430B6DD2A3754ED0C7371763A21A5359997DC4B07E0F902",
+  "changelog": "Добавлена функция «Хоткеи без ставки», обновлён рандомайзер"
 }
