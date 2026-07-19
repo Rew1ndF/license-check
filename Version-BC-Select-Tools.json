@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "download_url": "https://github.com/Rew1ndF/license-check/releases/download/v1.3.0/Select.Tools.Setup.1.3.0.exe",
-  "sha256": "sha256:d5558ddcdb12aca7fbadde5937162e6b07efcc10dbc0e615723855858b81ed98",
-  "changelog": "Demo Release"
+  "version": "1.5.0",
+  "url": "https://github.com/Rew1ndF/Select-Tools/releases/download/v1.5.0/Select.Tools.Setup.1.5.0.exe",
+  "sha256": "63db654b86e019020f8225506bec1c2c0208f4c8c57af7d87d3eb50bc3f09197",
+  "sig": "B2MvTPvyfIvRiMKV0LUV6va7-kguyo_twwqmtYuv4OkZl0wM_3qu4gjxD-MgNQfYPivYJG8xFZwZjsvkuFoRBg"
 }
