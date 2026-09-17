@@ -1,6 +1,6 @@
 {
-  "version": "8.2",
-  "download_url": "https://github.com/Rew1ndF/1win-tools-update/releases/download/1W8.2/WinHK3.exe",
-  "sha256": "CDA7CE62AC1D889780571BCC01C3768733C244FBA05CE5EE9BCE30C1FBDE2C42",
-  "changelog": ""
+  "version": "8.3",
+  "download_url": "https://github.com/Rew1ndF/1win-tools-update/releases/download/1W8.3/WinHK3.exe",
+  "sha256": "4790A3E63F85CDBF7F81AB5937C14BF2A9B72AB86FC19B8540FDB819C7E66E4C",
+  "changelog": "Более устойчивая лицензия при сбоях сети."
 }
