@@ -1,6 +1,6 @@
 {
-  "version": "8.4.0",
-  "download_url": "https://raw.githubusercontent.com/Rew1ndF/1win-tools-update/main/dl/8.4.0/WinHK3.exe",
-  "sha256": "94627843A400ECB2A929F2EF5B560EDC5FBF2FE0CF983A13B7D781F556DFABEC",
-  "changelog": "Новый внешний вид программы"
+  "version": "8.5.0",
+  "download_url": "https://raw.githubusercontent.com/Rew1ndF/1win-tools-update/main/dl/8.5.0/WinHK3.exe",
+  "sha256": "805118FBED99B85A7B96197C6BBC751277115DE5D8C388FCB91F261C72DB735C",
+  "changelog": "Исправлена редкая ошибка в раздачах, когда игрок на SB уходит из-за стола в начале раздачи."
 }
